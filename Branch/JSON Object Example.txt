@@ -1,0 +1,42 @@
+1. A JSON object contains data in the form of key/value pair. The keys are strings and the values are the JSON types. Keys and values are separated by colon. Each entry (key/value pair) is separated by comma.
+
+The { (curly brace) represents the JSON object.
+
+Ex:
+
+Creation of empty object: var jsonObj = {};
+Creation of new object: var jsonObj = new Object();
+
+var test = {  
+    "employee": {  
+        "name":       "Aravind",   
+        "salary":      10000,   
+        "married":    true  
+    }  
+}  ;
+
+
+var test = {
+	"employee1": {
+		"name": "Aravind",
+		"salary": 10000,
+		"married": true
+	},
+
+	"employee2": {
+		"name": "Aravind",
+		"salary": 10000,
+		"married": true
+	}
+
+};
+
+1. var samplejsondata = {"firstname":"Aravind",
+		"lastname":"kumar",
+		"age":25,
+		"sex":"Male",
+		"city":"KNR"
+		};
+
+
+

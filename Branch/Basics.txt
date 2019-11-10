@@ -1,0 +1,9 @@
+1. JSON stands for JavaScript Object Notation
+2. JSON is lightweight data-interchange format
+3. JSON is easy to read and write than XML
+4. JSON is language independent
+5. JSON supports array, object, string, number and values
+6. JSON filename extension is .json
+7. JSON Internet Media type is application/json.
+8. JSON format is used for serializing and transmitting structured data over network connection
+9. It is primarily used to transmit data between a server and web applications.

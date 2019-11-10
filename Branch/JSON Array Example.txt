@@ -1,0 +1,42 @@
+1. The [ (square bracket) represents the JSON array. A JSON array can have values and objects.
+
+Ex: The following is of JSON array having values.
+
+
+["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]  
+
+Ex: The following is of JSON array having objects.
+
+[  
+    {"name":"Ram", "email":"Ram@gmail.com","age":50},  
+    {"name":"Bob", "email":"bob32@gmail.com","age":60}  
+]  
+
+Ex: 
+
+
+var test = [
+
+	{
+		"firstname": "aravind",
+		"lastname": "kumar",
+		"age": 25,
+		"city": "knr"
+	},
+
+	{
+		"firstname": "ramesh",
+		"lastname": "kumar ",
+		"age ": 26,
+		"city ": "hyd "
+	},
+
+	{
+		"firstname": "kiran",
+		"lastname": "kumar",
+		"age": 30,
+		"city": "jubileehills"
+	}
+
+];
+

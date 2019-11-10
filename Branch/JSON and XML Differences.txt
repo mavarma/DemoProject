@@ -1,0 +1,35 @@
+No.			JSON													XML
+1)	JSON stands for JavaScript Object Notation.			XML stands for eXtensible Markup Language.
+2)	JSON is simple to read and write.					XML is less simple than JSON.
+3)	JSON is easy to learn.								XML is less easy than JSON.
+4)	JSON is data-oriented.								XML is document-oriented.
+5)	JSON doesn't provide display capabilities.			XML provides the capability to display data because it is a markup language.
+6)	JSON supports array.								XML doesn't support array.
+7)	JSON files are more human readable than XML.		XML files are less human readable.
+8)	JSON supports only text and number data type.		XML support many data types such as text, number, images, charts, graphs etc. Moreover,
+														XML options for transferring the format or structure of the data with actual data.
+														
+														
+														
+														
+														
+														
+Ex:
+---
+
+JSON:
+
+{
+   "firstname": "aravind",
+   "lastname": "kumar",
+   "age": 50
+}
+
+XML:
+
+<person>
+   <firstname>aravind</firstname>
+   <lastname>kumar</lastname>
+   <age>50</age>
+</person>
+
