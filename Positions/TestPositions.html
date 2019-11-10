@@ -1,0 +1,40 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+<style> 
+.static{
+	position: static;
+    border: 3px solid red;
+}	
+h3 {  
+    position: absolute;  
+    left: 150px;  
+    top: 250px;  
+}  
+h1.pos_left {  
+    position: relative;  
+    left: 84px;  
+}  
+
+h2.pos_right {  
+  position: relative;  
+    left: 30px;  
+}  
+p.pos_fixed {  
+    position: fixed;  
+    top: 50px;  
+   right: 5px;  
+    color: blue;  
+}
+  
+</style>  
+</head>  
+<body>  
+<p class="static">Hi Team ! </p>  
+<h1  class="pos_left">This a heading !</h1>
+<h2 class="pos_right">This heading has relative position</h2>  
+<h3> This is third heading </h3>
+<p class="pos_fixed"> The heading below is placed 150px from the left and 250px from the top of the page.</p>  
+</body>  
+</html>  
+

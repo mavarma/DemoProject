@@ -1,1 +1,3 @@
 # DemoProject
+
+npm install
